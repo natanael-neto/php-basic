@@ -1,0 +1,18 @@
+{
+    "name": "nneto/php-basic",
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nneto\\PhpBasic\\": "src/",
+            "classes\\": "src/classes"
+        }
+    },
+    "authors": [
+        {
+            "name": "Natanael",
+            "email": "natanaela.neto@unifacol.edu.br"
+        }
+    ]
+}
